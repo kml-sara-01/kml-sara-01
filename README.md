@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a software engineering student<br>🌱 I’m currently learning PHP and Java <br>
+🔭 I’m currently a software engineering student<br>🌱 I’m currently learning PHP <br>
 
 
 ## 🌐 Socials:
